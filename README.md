@@ -1,3 +1,3 @@
 # LHACK
-Web-Interface for working with HackRF One. Spectrum_Analyzer, Jamming WI-FI by fast switching bands, Jamming Working in range between 10 MHz and 6 GHz.
+Web-Interface for working with HackRF One. Spectrum_Analyzer, Jamming WI-FI by fast switching bands, Also Jamming is Working in range between 10 MHz and 6 GHz.
 I Get up this Project on Raspberry Pi 5, using librarys: SoapySDR, Django.
